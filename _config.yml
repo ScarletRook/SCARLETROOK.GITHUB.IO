@@ -1,6 +1,6 @@
 # Site Settings
 name: 绯色的乌鸦
-title: scarlet_Rook
+title: Scarlet_Rook | (love == 0 && 0 == start)
 description: (love == 0 && 0 == start)
 # tags:
 #   - blog
@@ -8,7 +8,7 @@ description: (love == 0 && 0 == start)
 #   - jekyll
 #   - theme
 #   - netlify
-# show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
@@ -60,7 +60,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
