@@ -2,13 +2,13 @@
 name: 绯色的乌鸦
 title: scarlet_Rook
 description: (love == 0 && 0 == start)
-tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-show_hero: true
+# tags:
+#   - blog
+#   - template
+#   - jekyll
+#   - theme
+#   - netlify
+# show_hero: true
 menu:
   - title: Home
     url: /
@@ -104,4 +104,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.1
+# version: v3.1.1
