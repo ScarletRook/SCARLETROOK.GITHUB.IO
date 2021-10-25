@@ -1,7 +1,7 @@
 # Site Settings
-name: ScarletRook
-title: 绯色的乌鸦
-description: ()
+name: 绯色的乌鸦
+title: scarlet_Rook
+description: (love == 0 && 0 == start)
 tags:
   - blog
   - template
@@ -12,13 +12,13 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+  - title: 乌鸦之声
+    url: /
+  - title: 红黑碰撞
+    url: /
+  - title: 古堡猎人
+    url: /
+# email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
