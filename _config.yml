@@ -105,3 +105,8 @@ exclude: [
 
 # Theme
 # version: v3.1.1
+themeColor: '#FD7474'
+primaryDark: '#141414'
+accentDark: '#ffffff'
+lightGray: '#f2f2f2'
+texts: '#333333'
