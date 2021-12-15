@@ -1,6 +1,6 @@
 # Site Settings
 name: 绯色的乌鸦
-title: ScarletRook || (love == 0 && 0 == start)
+title: 绯色的乌鸦 || ScarletRook
 description: (love == 0 && 0 == start)
 # tags:
 #   - blog
@@ -13,25 +13,25 @@ menu:
   - title: Home
     url: /
   - title: 乌鸦之声
-    url: /category/life/
+    url: /category/voice/
     sub:
       - title: 诗·歌
-        url: /category/life/
+        url: /category/poem/
       - title: 故事別馆
-        url: /category/life/
+        url: /category/stories/
       - title: 万花筒
-        url: /category/life/
+        url: /category/videos/
   - title: 红黑碰撞
-    url: /category/life/
+    url: /category/fireworks/
     sub:
       - title: 长考
-        url: /category/life/
+        url: /category/thoughts/
       - title: 百城
-        url: /category/life/
+        url: /category/books/
       - title: 幻影
-        url: /category/life/
+        url: /category/films/
   - title: 古堡猎人
-    url: /category/life
+    url: /category/bin/
 # email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
