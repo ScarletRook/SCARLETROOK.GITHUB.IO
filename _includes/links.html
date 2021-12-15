@@ -6,10 +6,14 @@
           <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
         </li>
       {% else %}
-        {% for sub in item.sub %}
-          <li>
-            <a href="{{ site.url }}{{ site.baseurl }}{{ sub.url }}">{{ sub.title }}</a>
-          </li>
+        <li>
+          {{item.title}}
+          <ul>
+            {% for sub in item.sub %}
+              <li>
+                <a href="{{ site.url }}{{ site.baseurl }}{{ sub.url }}">{{ sub.title }}</a>
+              </li>
+          </ul>
         {% endfor %}
       {% endif %}
     {% endif %}
