@@ -13,9 +13,21 @@ menu:
   - title: Home
     url: /
   - title: 乌鸦之声
-    url: /category/life/
+    sub:
+      - title: 诗·歌
+        url: /category/life/
+      - title: 故事別馆
+        url: /category/life/
+      - title: 万花筒
+        url: /category/life/
   - title: 红黑碰撞
-    url: /
+    sub:
+      - title: 长考
+        url: /category/life/
+      - title: 百城
+        url: /category/life/
+      - title: 幻影
+        url: /category/life/
   - title: 古堡猎人
     url: /
 # email: youremail@test.com
