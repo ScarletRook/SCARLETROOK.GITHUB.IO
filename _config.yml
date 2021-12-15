@@ -13,25 +13,25 @@ menu:
   - title: Home
     url: /
   - title: 乌鸦之声
-    url: /category/voice/
+    url: /category/乌鸦之声/
     sub:
       - title: 诗·歌
-        url: /category/poem/
+        url: /category/诗·歌/
       - title: 故事別馆
-        url: /category/stories/
+        url: /category/故事别馆/
       - title: 万花筒
-        url: /category/videos/
+        url: /category/万花筒/
   - title: 红黑碰撞
-    url: /category/fireworks/
+    url: /category/红黑碰撞/
     sub:
       - title: 长考
-        url: /category/thoughts/
+        url: /category/长考/
       - title: 百城
-        url: /category/books/
+        url: /category/百城/
       - title: 幻影
-        url: /category/films/
+        url: /category/幻影/
   - title: 古堡猎人
-    url: /category/bin/
+    url: /category/古堡猎人/
 # email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
