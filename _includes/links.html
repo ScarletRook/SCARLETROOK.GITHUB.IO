@@ -3,18 +3,18 @@
     {% if item.title %}
       {% if item.sub %}
         <li>
-          <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{item.title}}</a>
+          <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}" style="font-weight:bold">{{ item.title }}</a>
           <ul>
             {% for sub in item.sub %}
               <li>
-                <a href="{{ site.url }}{{ site.baseurl }}{{ sub.url }}">{{ sub.title }}</a>
+                <a href="{{ site.url }}{{ site.baseurl }}{{ sub.url }}">- {{ sub.title }}</a>
               </li>
             {% endfor %}
           </ul>
         </li>
       {% else %}
         <li>
-          <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+          <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}" style="font-weight:bold">{{ item.title }}</a>
         </li>
       {% endif %}
     {% endif %}
