@@ -1,13 +1,9 @@
 <ul>
   {% for item in site.menu %}
     {% if item.title %}
-      {% if item.url %}
+      {% if item.sub %}
         <li>
-          <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-        </li>
-      {% else %}
-        <li>
-          <a href="{{ site.url }}{{ site.baseurl }}/">{{item.title}}</a>
+          <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{item.title}}</a>
           <ul>
             {% for sub in item.sub %}
               <li>
@@ -15,6 +11,10 @@
               </li>
             {% endfor %}
           </ul>
+        </li>
+      {% else %}
+        <li>
+          <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
         </li>
       {% endif %}
     {% endif %}

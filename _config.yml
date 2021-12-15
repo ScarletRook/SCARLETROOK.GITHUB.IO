@@ -13,6 +13,7 @@ menu:
   - title: Home
     url: /
   - title: 乌鸦之声
+    url: /category/life/
     sub:
       - title: 诗·歌
         url: /category/life/
@@ -21,6 +22,7 @@ menu:
       - title: 万花筒
         url: /category/life/
   - title: 红黑碰撞
+    url: /category/life/
     sub:
       - title: 长考
         url: /category/life/
