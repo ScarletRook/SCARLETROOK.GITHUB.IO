@@ -1,7 +1,7 @@
 ---
 layout: category
 title: 长考
-slug: thoughts
+slug: 长考
 description: A category of my causeries.
 ---
 
