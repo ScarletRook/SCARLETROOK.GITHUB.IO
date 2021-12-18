@@ -195,6 +195,7 @@
     }
   }
   h1 {
+    color: #FD7474;
     font-size: rem(36px);
     line-height: 1.4;
     @include media(">=sm") {
@@ -203,6 +204,7 @@
   }
 
   h2 {
+    color: #FD7474;
     font-size: rem(28px);
     line-height: 1.4;
 
@@ -212,6 +214,7 @@
   }
 
   h3 {
+    color: #FD7474;
     font-size: rem(22px);
     line-height: 1.4;
 
@@ -219,6 +222,12 @@
       font-size: rem(27px);
     }
   }
+  h6 {
+    font-size: rem(17px);
+    line-height: rem(30px);
+    color: #c1c1c1;
+  }
+
   ul,
   ol {
     padding-left: rem(60px);
@@ -234,6 +243,7 @@
 
   blockquote {
     @include center(rem(730px));
+    ;
     border-left: rem(5px) solid $texts;
     padding: 0 rem(10px);
     margin: rem(30px) auto;
@@ -247,7 +257,7 @@
 
     p {
       font-size: rem(17px);
-      color: rgba(0, 0, 0, 0.6);
+      color: #777777;
       margin: 0;
       @include media(">=sm") {
         font-size: rem(20px);
