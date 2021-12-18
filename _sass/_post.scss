@@ -196,7 +196,11 @@
   h6 {
     @include mainFont(700);
     margin-top: 0;
-    padding-top: 0;
+    padding: rem(40px) 0;
+
+    &.fullwidth {
+      padding: rem(60px) rem(10px) 0;
+    }
 
     @include media(">=sm") {
       margin-top: 0;
