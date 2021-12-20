@@ -7,7 +7,7 @@ description: 一首早年创作的堆砌辞藻、矫揉造作的古体叙事诗�
 image: >-
   /assets/img/uploads/voices/tree-and-bird.jfif
 bigcategory: 乌鸦之声
-category: 诗·歌
+category: 徒歌
 tags:
   - poems
   - fragile love
