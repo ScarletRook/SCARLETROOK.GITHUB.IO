@@ -197,6 +197,7 @@
     @include mainFont(700);
     margin-top: 0;
     padding-top: 0;
+    padding-bottom: 0;
 
     @include media(">=sm") {
       margin-top: 0;
@@ -230,6 +231,7 @@
       font-size: rem(27px);
     }
   }
+
   h6 {
     font-size: rem(17px);
     line-height: rem(30px);
