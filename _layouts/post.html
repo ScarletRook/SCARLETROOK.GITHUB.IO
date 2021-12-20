@@ -86,7 +86,7 @@
 
         {% assign author_urls = '' %}
         {% if author.site %}
-            {% assign author_urls = author_urls | append: author.github_username | append: '",' %}
+            {% assign author_urls = author_urls | append: author.site | append: '",' %}
         {% endif %}
         {% if author.github_username %}
             {% assign author_urls = author_urls | append: '"https://github.com/' | append: author.github_username | append: '",' %}
