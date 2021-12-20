@@ -30,8 +30,8 @@ layout: page
 </div>
 
 {% assign author_urls = '' %}
-{% if author.site %}
-    {% assign author_urls = author_urls | append: author.site | append: '",' %}
+{% if page.site %}
+    {% assign author_urls = author_urls | append: page.site | append: '",' %}
 {% endif %}
 {% if page.github_username %}
     {% assign author_urls = author_urls | append: '"https://github.com/' | append: page.github_username | append: '",' %}
