@@ -19,7 +19,7 @@ paginate: true
 
 #### \- 关于慈禧 -
 
-<img src="../assets/img/uploads/reds/deling4.jpg" style="zoom:10%;" />
+<img src="../assets/img/uploads/reds/deling4.jpg" style="zoom:25%;" />
 
 一开始我并不理解慈禧为什么这么喜欢德龄。在我印象中，慈禧就是那个国难当头可以说出“今日令吾不欢者，吾亦将令彼终身不欢”这种话的固执的老太太，将大清视为世界的中心，鄙夷一切外来事物。而德龄是一个在国外长大的女孩子，第一次进宫时的行为举止与封建礼法完全相悖；后来与慈禧相处的时候，经常冒出的“不合时宜”的言语也不禁让人担心她下一秒的境遇。
 
@@ -35,7 +35,7 @@ paginate: true
 
 #### \- 关于光绪 -
 
-<img src="../assets/img/uploads/reds/deling3.jpg" style="zoom:10%;" />
+<img src="../assets/img/uploads/reds/deling3.jpg" style="zoom:25%;" />
 
 一声“万岁爷驾到”全场观众不约而同都支棱了起来。和第一轮相比，龙瘦得可怜，微凹的脸庞上挂着一对悲怆的眼睛，除了和德龄学英文的一幕，几乎没有笑的时候。随着剧情的发展，光绪的精气神耗尽了，腰背也渐渐弓得越来越厉害。
 
@@ -51,7 +51,7 @@ paginate: true
 
 #### \- 其他碎碎念 -
 
-<img src="../assets/img/uploads/reds/deling1.jpg" style="zoom:10%;" />
+<img src="../assets/img/uploads/reds/deling1.jpg" style="zoom:25%;" />
 
 不得不说江珊老师对角色的把握非常到位，喜怒哀乐通过小小的语气改变或者动作就能准确反映出来，让人听了只想跪下喊老祖宗。
 
