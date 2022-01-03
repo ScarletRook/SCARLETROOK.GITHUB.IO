@@ -3,7 +3,7 @@ date: 2021-06-27T10:23:00.000Z
 layout: post
 title: 话剧《德龄与慈禧》REPO：一些人物洞察
 subtitle: 2021.03.27南京晚场
-description: 2021.03.27南京晚场
+description: 第一次看见龙的真人
 image: >-
   /assets/img/uploads/reds/deling2.jpg
 bigcategory: 红黑碰撞
