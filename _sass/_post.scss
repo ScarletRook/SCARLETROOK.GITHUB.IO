@@ -2,12 +2,12 @@
   position: relative;
   top: rem(30px);
 
-  -webkit-user-select: none;  
   -webkit-touch-callout: none;
+  -webkit-user-select: none;  
   -moz-user-select: none;   
   -ms-user-select: none;   
-  user-select: none;
   -khtml-user-select: none;
+  user-select: none;
 
   @include media(">=sm") {
     top: rem(50px);
