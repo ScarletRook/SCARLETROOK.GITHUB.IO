@@ -3,12 +3,11 @@
   top: rem(30px);
 
   -webkit-user-select: none;  
-
+  -webkit-touch-callout: none;
   -moz-user-select: none;   
-
   -ms-user-select: none;   
-
   user-select: none;
+  -khtml-user-select: none;
 
   @include media(">=sm") {
     top: rem(50px);
