@@ -33,12 +33,33 @@
       flex-basis: 70%;
       padding: 0 rem(30px) 0 rem(10px);
     }
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;  
+    -moz-user-select: none;   
+    -ms-user-select: none;   
+    -khtml-user-select: none;
+    user-select: none;
   }
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;  
+  -moz-user-select: none;   
+  -ms-user-select: none;   
+  -khtml-user-select: none;
+  user-select: none;
 }
 
 .post-content {
   overflow-x: auto;
   padding: rem(40px) 0;
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;  
+  -moz-user-select: none;   
+  -ms-user-select: none;   
+  -khtml-user-select: none;
+  user-select: none;
 
   &.fullwidth {
     padding: rem(60px) rem(10px) 0;
