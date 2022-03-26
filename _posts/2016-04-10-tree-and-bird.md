@@ -13,6 +13,7 @@ tags:
   - fragile love
 author: 乌鸦BOSS本尊
 paginate: true
+music: 298079
 ---
 胭脂开朦胧，怯懦迎暖春。鹧鸪乘翼<sup>①</sup>来，抱树独飞旋。枝摇银花绽，星跃笼火斜。长蛇艳青天，金镜映笑靥。
 
