@@ -9,6 +9,8 @@ image: >-
 bigcategory: 红黑碰撞
 category: 长考
 tags:
+  - 红黑碰撞
+  - 长考
   - 怀古伤今
 author: 乌鸦BOSS本尊
 paginate: true
@@ -18,7 +20,7 @@ music: 2321330
 
 现在是2022年3月27日22:45。此刻我本应在天桥艺术中心大剧场，观看音乐剧《赵氏孤儿》因去年北京疫情而延期的第一轮巡演的大末场，按照计划演出应该刚刚结束。然而，上周收到短信通知，由于最近的疫情，本次演出再次延期。这距离开票已经过去十个月了。
 
-<img src="../assets/img/uploads/reds/cancel-message.jpg" style="zoom:20%;" />
+<img src="../assets/img/uploads/reds/cancel-message.jpg" style="zoom:15%;" />
 
 ###### <center>赵孤两次延期，附带被退票的遗愿清单……（幸好中罗朱没取消</center>
 
@@ -32,7 +34,7 @@ music: 2321330
 
 2022年开端，网上流传着一张地狱笑话meme：
 
-<img src="../assets/img/uploads/reds/2022meme.jpg" style="zoom:20%;" />
+<img src="../assets/img/uploads/reds/2022meme.jpg" style="zoom:30%;" />
 
 ###### <center>这TM也太魔鬼了吧</center>
 
@@ -44,7 +46,7 @@ music: 2321330
 
 听闻中关村家乐福已经关店了，食宝街也将紧随其后。疫情之前，我几乎每周都要到那里去。日本拉面、牛杂和真正的青菜、虾三鲜饺子、和朋友们一起吃的杭帮菜台湾菜、在家乐福囤面包和麦片当早餐……有些东西在疫情开始之前已经没有了，有些在20年9月回来消失了，朋友们毕业离开了，现在食宝街也要不在了。
 
-<img src="../assets/img/uploads/reds/shibaojie.jpg" style="zoom:20%;" />
+<img src="../assets/img/uploads/reds/shibaojie.jpg" style="zoom:15%;" />
 
 ###### <center>在食宝街那块拍的一些乱七八糟的东西</center>
 
@@ -72,7 +74,7 @@ music: 2321330
 
 所以，这世界还会好吗？也许会，也许不吧。谁知道呢？命运的转轮，“年年依然始终如一”。
 
-在定这篇推送的配乐的时候，选择了《Jekyll&Hyde》里Lucy最后的独唱《A New Life》（我真的好喜欢Lucy的各种歌）：
+在确定这篇推送的配乐的时候，考虑了好几首，最终选择了《Jekyll&Hyde》里Lucy最后的独唱《A New Life》（我真的好喜欢Lucy的各种歌）：
 
 > A new world<br>
 > 新世界<br>
@@ -115,5 +117,5 @@ music: 2321330
 
 <br>
 
-###### P.S.: 虽然Lucy在唱完《A New Life》之后就领便当了，但此处并没有什么别的意思（
+###### P.S.：虽然Lucy在唱完《A New Life》之后就领便当了，但此处并没有什么别的意思（
 

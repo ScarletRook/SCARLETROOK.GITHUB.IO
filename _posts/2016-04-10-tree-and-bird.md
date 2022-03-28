@@ -9,6 +9,8 @@ image: >-
 bigcategory: 乌鸦之声
 category: 徒歌
 tags:
+  - 乌鸦之声
+  - 徒歌
   - poems
   - fragile love
 author: 乌鸦BOSS本尊

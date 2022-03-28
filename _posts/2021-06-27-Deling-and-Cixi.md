@@ -9,6 +9,8 @@ image: >-
 bigcategory: 红黑碰撞
 category: 幻影
 tags:
+  - 红黑碰撞
+  - 幻影
   - repo
   - 郑云龙
 author: 乌鸦BOSS本尊
