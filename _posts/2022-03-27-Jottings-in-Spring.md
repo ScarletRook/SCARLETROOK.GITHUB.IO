@@ -2,7 +2,7 @@
 date: 2022-03-27T22:45:00.000Z
 layout: post
 title: 写在春日
-subtitle: 写在赵孤因为疫情第二次延期之后，还有新冠、空难、时work时不work的代码、随时没电的电动车、重感冒、阻隔在大陆两端的挚友、孤独与无法获得的恋情、流逝的时光
+subtitle: 写在赵孤因为疫情第二次延期之后，还有奥密克戎、空难、时work时不work的代码、总在半路没电的电动车、过敏和重感冒、阻隔在大陆两端的挚友、孤独、无法获得的恋情、流逝的时光
 description: 写在赵孤因为疫情第二次延期之后
 image: >-
   /assets/img/uploads/reds/nosun.jpg
@@ -18,7 +18,7 @@ music: 2321330
 
 现在是2022年3月27日22:45。此刻我本应在天桥艺术中心大剧场，观看音乐剧《赵氏孤儿》因去年北京疫情而延期的第一轮巡演的大末场，按照计划演出应该刚刚结束。然而，上周收到短信通知，由于最近的疫情，本次演出再次延期。这距离开票已经过去十个月了。
 
-<img src="../assets/img/uploads/reds/cancel-message.jpg" style="zoom:10%;" />
+<img src="../assets/img/uploads/reds/cancel-message.jpg" style="zoom:20%;" />
 
 ###### <center>赵孤两次延期，附带被退票的遗愿清单……（幸好中罗朱没取消</center>
 
@@ -32,7 +32,7 @@ music: 2321330
 
 2022年开端，网上流传着一张地狱笑话meme：
 
-<img src="../assets/img/uploads/reds/2022meme.jpg" style="zoom:10%;" />
+<img src="../assets/img/uploads/reds/2022meme.jpg" style="zoom:20%;" />
 
 ###### <center>这TM也太魔鬼了吧</center>
 
@@ -44,7 +44,7 @@ music: 2321330
 
 听闻中关村家乐福已经关店了，食宝街也将紧随其后。疫情之前，我几乎每周都要到那里去。日本拉面、牛杂和真正的青菜、虾三鲜饺子、和朋友们一起吃的杭帮菜台湾菜、在家乐福囤面包和麦片当早餐……有些东西在疫情开始之前已经没有了，有些在20年9月回来消失了，朋友们毕业离开了，现在食宝街也要不在了。
 
-<img src="../assets/img/uploads/reds/shibaojie.jpg" style="zoom:50%;" />
+<img src="../assets/img/uploads/reds/shibaojie.jpg" style="zoom:20%;" />
 
 ###### <center>在食宝街那块拍的一些乱七八糟的东西</center>
 
