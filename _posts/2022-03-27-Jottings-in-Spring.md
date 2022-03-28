@@ -18,7 +18,7 @@ music: 2321330
 
 现在是2022年3月27日22:45。此刻我本应在天桥艺术中心大剧场，观看音乐剧《赵氏孤儿》因去年北京疫情而延期的第一轮巡演的大末场，按照计划演出应该刚刚结束。然而，上周收到短信通知，由于最近的疫情，本次演出再次延期。这距离开票已经过去十个月了。
 
-<img src="../assets/img/uploads/reds/cancel-message.jpg" style="zoom:25%;" />
+<img src="../assets/img/uploads/reds/cancel-message.jpg" style="zoom:10%;" />
 
 ###### <center>赵孤两次延期，附带被退票的遗愿清单……（幸好中罗朱没取消</center>
 
@@ -32,7 +32,7 @@ music: 2321330
 
 2022年开端，网上流传着一张地狱笑话meme：
 
-<img src="../assets/img/uploads/reds/2022meme.jpg" style="zoom:50%;" />
+<img src="../assets/img/uploads/reds/2022meme.jpg" style="zoom:10%;" />
 
 ###### <center>这TM也太魔鬼了吧</center>
 
@@ -113,7 +113,7 @@ music: 2321330
 
 每天都是崭新的一天。继续走吧。
 
-
+<br>
 
 ###### P.S.: 虽然Lucy在唱完《A New Life》之后就领便当了，但此处并没有什么别的意思（
 
